@@ -1,7 +1,8 @@
-package com.yanuwar.xampleproject
+package com.yanuwar.xampleproject.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.yanuwar.xampleproject.R
 import com.yanuwar.xampleproject.retrofit.ApiInterface
 import com.yanuwar.xampleproject.retrofit.RetrofitClientInstance
 import okhttp3.ResponseBody
